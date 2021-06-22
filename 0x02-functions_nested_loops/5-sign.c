@@ -12,8 +12,8 @@ int test;
 
 if (n > 0)
 {
-  	test = 1;
-  	_putchar('+');
+	test = 1;
+	_putchar('+');
 }
 else if (n == 0)
 {
