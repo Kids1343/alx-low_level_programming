@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 
+void read_textfile(av[1], int);
 /**
  * main - check the code for ALX School students.
  *
